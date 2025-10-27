@@ -20,6 +20,7 @@
 | [2058-concatenation-of-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -37,6 +38,7 @@
 | [1635-number-of-good-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3321-type-of-triangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
@@ -54,6 +56,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Simulation
 |  |
 | ------- |
@@ -134,6 +137,7 @@
 ## String
 |  |
 | ------- |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Design
 |  |
