@@ -1,14 +1,12 @@
 class Solution {
     public boolean kLengthApart(int[] nums, int k) {
-        for(int i=0; i<nums.length; i++){
-            if(nums[i]==1){
-                int j=i+1;
-                while(j<nums.length && nums[j]!=1){
-                    j++;
-                }
-                if(j<nums.length && (j-i-1)<k)return false;
-            }
+       int l=-1;
+       for(int i=0; i<nums.length; i++){
+        if(nums[i]==1){
+            if(i-l-1<k && l!=-1)return false;
+            l=i;
         }
-    return true;
+       } 
+       return true;
     }
 }
