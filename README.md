@@ -27,6 +27,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
@@ -49,6 +50,7 @@
 | [2288-count-operations-to-obtain-zero](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3321-type-of-triangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
