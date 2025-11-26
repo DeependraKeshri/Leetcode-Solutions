@@ -28,6 +28,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Matrix
 |  |
@@ -70,6 +72,7 @@
 | [0498-diagonal-traverse](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
