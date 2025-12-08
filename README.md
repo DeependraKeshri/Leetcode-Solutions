@@ -101,6 +101,7 @@
 | [0036-valid-sudoku](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1635-number-of-good-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
@@ -141,6 +142,7 @@
 | [0141-linked-list-cycle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0611-valid-triangle-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -194,6 +196,7 @@
 | [0141-linked-list-cycle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
