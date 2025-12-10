@@ -2,7 +2,6 @@ class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
         int n2=nums2.length;
         int n1=nums1.length;
-        int arr[]=new int[n2];
         Stack<Integer> st=new Stack<>();
         HashMap<Integer, Integer> mp=new HashMap<>();
         mp.put(nums2[n2-1],-1);
