@@ -9,6 +9,7 @@
 | [0046-permutations](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0407-trapping-rain-water-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0496-next-greater-element-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0611-valid-triangle-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -102,6 +103,7 @@
 | [0141-linked-list-cycle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1635-number-of-good-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
@@ -232,6 +234,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 ## Recursion
@@ -241,4 +244,8 @@
 | [0143-reorder-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
