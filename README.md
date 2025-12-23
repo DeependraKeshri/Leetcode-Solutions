@@ -199,6 +199,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [2169-simple-bank-system](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 ## Linked List
 |  |
@@ -240,6 +241,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
