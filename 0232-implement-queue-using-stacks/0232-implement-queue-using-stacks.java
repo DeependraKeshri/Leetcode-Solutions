@@ -5,23 +5,18 @@ class MyQueue {
     }
     
     public void push(int x) {
+        Stack<Integer> s=new Stack<>();
+        while(!st.isEmpty())s.push(st.pop());
         st.push(x);
+        while(!s.isEmpty())st.push(s.pop());
     }
     
     public int pop() {
-        Stack<Integer> s=new Stack<>();
-        while(st.size()>1)s.push(st.pop());
-        int t=st.pop();
-        while(!s.isEmpty())st.push(s.pop());
-        return t;
+        return st.pop();
     }
     
     public int peek() {
-        Stack<Integer> s=new Stack<>();
-        while(st.size()>0)s.push(st.pop());
-        int t=s.peek();
-        while(!s.isEmpty())st.push(s.pop());
-        return t;
+        return st.peek();
     }
     
     public boolean empty() {
