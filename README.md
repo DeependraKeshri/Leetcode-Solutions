@@ -17,6 +17,7 @@
 | [0611-valid-triangle-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0830-largest-triangle-area](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1018-largest-perimeter-triangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0830-largest-triangle-area](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -86,6 +88,7 @@
 | [0036-valid-sudoku](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0407-trapping-rain-water-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
+| [0840-magic-squares-in-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -114,6 +117,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0840-magic-squares-in-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1635-number-of-good-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
