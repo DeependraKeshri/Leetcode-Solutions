@@ -1,15 +1,12 @@
 class Solution {
-    public int helper(int n, int arr[]){
-        if(n==0)return 1;
-        if(n<0)return 0;
-        if(arr[n]!=-1)return arr[n];
-        arr[n]=helper(n-1,arr)+helper(n-2,arr);
-        return arr[n];
-    }
     public int climbStairs(int n) {
-        //Memoization
+        //Tabulation
         int arr[]=new int[n+1];
-        Arrays.fill(arr,-1);
-        return helper(n,arr);
+        arr[0]=1;
+        arr[1]=1;
+        for(int i=2; i<=n; i++){
+            arr[i]=arr[i-1]+arr[i-2];
+        }
+        return arr[n];
     }
 }
