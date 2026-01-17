@@ -363,6 +363,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -382,6 +383,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
