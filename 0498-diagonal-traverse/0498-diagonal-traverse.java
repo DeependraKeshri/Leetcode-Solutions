@@ -1,43 +1,34 @@
-class Solution {
+class Solution { 
     public int[] findDiagonalOrder(int[][] mat) {
-        /*int n=mat.length*mata[0].length;
-       int arr[] = new int[n];
-       int j=0, k=0;
-       for(int i=0; i<n; i++){
-        if(j%2==0 && k%2==0){
-            while(j==0 && k==0){
-                arr[i]=mat[j][k];
-                if(i){
-                }else{
+        int r = mat.length;
+        int c = mat[0].length;
+        int n = r * c;
+        int arr[] = new int[n];
+        int j = 0, k = 0;
+
+        for (int i = 0; i < n; i++) {
+            arr[i] = mat[j][k];  
+
+            if ((j + k) % 2 == 0) {  
+                if (k == c - 1) {        
+                    j++;
+                } else if (j == 0) {     
+                    k++;
+                } else {                 
                     j--;
                     k++;
                 }
+            } else {                
+                if (j == r - 1) {        
+                    k++;
+                } else if (k == 0) {     
+                    j++;
+                } else {                
+                    j++;
+                    k--;
+                }
             }
         }
-       }
-       return arr;*/
-
-
-       if (mat == null || mat.length == 0) return new int[0];
-
-        int m = mat.length, n = mat[0].length;
-        int[] result = new int[m * n];
-        int row = 0, col = 0;
-
-        for (int i = 0; i < m * n; i++) {
-            result[i] = mat[row][col];
-
-            if ((row + col) % 2 == 0) {
-                if (col == n - 1) row++;
-                else if (row == 0) col++;
-                else { row--; col++; }
-            } else {
-                if (row == m - 1) col++;
-                else if (col == 0) row++;
-                else { row++; col--; }
-            }
-        }
-
-        return result;
+        return arr;
     }
 }
