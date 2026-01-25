@@ -7,7 +7,8 @@ class Solution {
         for(int i=k; i<nums.length; i++){
             hi=nums[i];
             lo=nums[i-k+1];
-            if(hi-lo<diff)diff=hi-lo;
+            int d=hi-lo;
+            if(d<diff)diff=d;
         }
         return diff;
     }
