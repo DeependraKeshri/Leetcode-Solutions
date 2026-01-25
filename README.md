@@ -33,6 +33,7 @@
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1635-number-of-good-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1917-maximum-average-pass-ratio](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2048-build-array-from-permutation](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2169-simple-bank-system](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
@@ -206,6 +207,7 @@
 | [0268-missing-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2215-finding-3-digit-even-numbers](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -419,4 +421,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
