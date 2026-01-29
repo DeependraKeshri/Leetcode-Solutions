@@ -320,6 +320,7 @@
 | [0257-binary-tree-paths](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
+| [0897-increasing-order-search-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -343,6 +344,7 @@
 | [0234-palindrome-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0897-increasing-order-search-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1504-count-submatrices-with-all-ones](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1504-count-submatrices-with-all-ones) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -386,6 +388,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -413,6 +416,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -427,6 +431,7 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0897-increasing-order-search-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Memoization
