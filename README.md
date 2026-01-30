@@ -152,6 +152,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [4008-restore-finishing-order](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/4008-restore-finishing-order) |
 ## Greedy
 |  |
@@ -263,6 +264,7 @@
 | [2264-largest-3-same-digit-number-in-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [3110-score-of-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Design
 |  |
 | ------- |
