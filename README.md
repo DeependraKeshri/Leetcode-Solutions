@@ -50,6 +50,7 @@
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2596-check-knight-tour-configuration](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2942-find-words-containing-character](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -265,6 +266,7 @@
 | [2211-count-collisions-on-a-road](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2942-find-words-containing-character](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
