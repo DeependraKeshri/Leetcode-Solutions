@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
@@ -137,6 +138,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
