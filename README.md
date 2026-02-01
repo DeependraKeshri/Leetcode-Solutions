@@ -52,6 +52,7 @@
 | [2596-check-knight-tour-configuration](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -223,6 +224,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3321-type-of-triangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
@@ -255,6 +257,7 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## String
 |  |
 | ------- |
