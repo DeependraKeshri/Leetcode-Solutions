@@ -66,6 +66,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3637-trionic-array-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 | [3693-climbing-stairs-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
