@@ -1,23 +1,19 @@
 class Solution {
     public int maxFreqSum(String s) {
-       HashMap<Character,Integer> mp=new HashMap<>(); 
-       for(int i=0; i<s.length(); i++){
-        char ch=s.charAt(i);
-        if(!mp.containsKey(ch)){
-            mp.put(ch,1);
-        }else{
-            mp.put(ch,mp.get(ch)+1);
+        int arr[]=new int[26];
+        for(int i=0; i<s.length(); i++){
+            int ch=s.charAt(i)-'a';
+            arr[ch]++;
         }
-       }
-       int vol=0;
-       int con=0;
-       for(char ch:mp.keySet()){
-        if(ch=='a' || ch=='e' || ch=='i' || ch=='o' || ch=='u'){
-            if(mp.get(ch)>vol)vol=mp.get(ch);
-        }else{
-            if(mp.get(ch)>con)con=mp.get(ch);
+        int vol=0;
+        int con=0;
+        for(int i=0; i<26; i++){
+            if(i==0 || i==4 || i==8 || i==14 || i==20){
+                if(vol<arr[i])vol=arr[i];
+            }else{
+                if(con<arr[i])con=arr[i];
+            }
         }
-       }
-       return vol+con;
+        return vol+con;
     }
 }
