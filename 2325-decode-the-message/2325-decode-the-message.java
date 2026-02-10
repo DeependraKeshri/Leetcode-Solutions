@@ -11,12 +11,12 @@ class Solution {
             }
         }
 
-        StringBuilder sb = new StringBuilder();
+        String s = new String();
         for (int i = 0; i < message.length(); i++) {
             char ch = message.charAt(i);
-            if (ch == ' ') sb.append(' ');
-            else sb.append(arr[ch - 'a']);
+            if (ch == ' ') s+=' ';
+            else s+=arr[ch - 'a'];
         }
-        return sb.toString();
+        return s;
     }
 }
