@@ -165,6 +165,7 @@
 | [2169-simple-bank-system](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2325-decode-the-message](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2325-decode-the-message) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -293,6 +294,7 @@
 | [2211-count-collisions-on-a-road](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2325-decode-the-message](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2325-decode-the-message) |
 | [2785-sort-vowels-in-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
