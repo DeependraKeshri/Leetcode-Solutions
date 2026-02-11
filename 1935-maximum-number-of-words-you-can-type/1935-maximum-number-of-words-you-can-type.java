@@ -1,24 +1,26 @@
 class Solution {
     public int canBeTypedWords(String text, String brokenLetters) {
-        HashSet<Character> st = new HashSet<>();
-        for (int i = 0; i < brokenLetters.length(); i++) {
-            st.add(brokenLetters.charAt(i));
-        }
+        int count = 0;
+        int i = 0;
 
-        int c = 0;
-        boolean val = false;
+        while (i < text.length()) {
+            boolean valid = true;
 
-        for (int i = 0; i < text.length(); i++) {
-            char ch = text.charAt(i);
-
-            if (ch == ' ') {
-                if (!val) c++;
-                val = false;
-            } else {
-                if (st.contains(ch)) val = true;
-                if (i == text.length() - 1 && !val) c++;
+            while (i < text.length() && text.charAt(i) != ' ') {
+                for (int j = 0; j < brokenLetters.length(); j++) {
+                    if (text.charAt(i) == brokenLetters.charAt(j)) {
+                        valid = false;
+                        break;
+                    }
+                }
+                i++;
             }
+
+            if (valid) count++;
+
+            i++;
         }
-        return c;
+
+        return count;
     }
 }
