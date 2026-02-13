@@ -33,7 +33,7 @@ class Solution {
         ListNode temp=head;
         while(slow!=null){
             int s=temp.val+slow.val;
-            sum=Math.max(sum,s);
+            if(s>sum)sum=s;
             temp=temp.next;
             slow=slow.next;
         }
