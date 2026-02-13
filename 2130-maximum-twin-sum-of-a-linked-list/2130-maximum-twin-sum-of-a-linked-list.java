@@ -9,27 +9,33 @@
  * }
  */
 class Solution {
-    public int pairSum(ListNode head) {
-        ListNode slow=head;
-        ListNode fast=head;
-        while(fast!=null && fast.next!=null){
-            slow=slow.next;
-            fast=fast.next.next;
-        }
-        ListNode curr=slow;
+    public ListNode reverse(ListNode h){
+        ListNode curr=h;
+        ListNode next=h;
         ListNode prev=null;
         while(curr!=null){
-            ListNode next=curr.next;
+            next=curr.next;
             curr.next=prev;
             prev=curr;
             curr=next;
         }
-        ListNode temp=head;
+        return prev;
+    }
+    public int pairSum(ListNode head) {
         int sum=0;
-        while(prev!=null){
-            sum=Math.max(sum,prev.val+temp.val);
-            prev=prev.next;
+        ListNode slow=head;
+        ListNode fast=head;
+        while(fast.next.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
+        }
+        slow=reverse(slow.next);
+        ListNode temp=head;
+        while(slow!=null){
+            int s=temp.val+slow.val;
+            sum=Math.max(sum,s);
             temp=temp.next;
+            slow=slow.next;
         }
         return sum;
     }
