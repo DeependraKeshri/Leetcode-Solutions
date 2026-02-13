@@ -1,6 +1,6 @@
 class Solution:
     def scoreOfString(self, s: str) -> int:
-        c=0
+        sum=0
         for i in range(1,len(s)):
-            c+=abs(ord(s[i])-ord(s[i-1]))
-        return c
+            sum+=abs(ord(s[i-1])-ord(s[i]))
+        return sum
