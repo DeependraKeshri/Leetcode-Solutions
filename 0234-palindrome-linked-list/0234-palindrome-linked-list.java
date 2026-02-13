@@ -29,11 +29,11 @@ class Solution {
             fast=fast.next.next;
             slow=slow.next;
         }
-        ListNode rev=reverse(slow.next);
+        slow=reverse(slow.next);
         ListNode temp=head;
-        while(rev!=null){
-            if(rev.val!=temp.val)return false;
-            rev=rev.next;
+        while(slow!=null){
+            if(slow.val!=temp.val)return false;
+            slow=slow.next;
             temp=temp.next;
         }
         return true;
