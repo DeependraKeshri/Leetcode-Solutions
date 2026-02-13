@@ -23,7 +23,7 @@ class Solution {
     }
     public boolean isPalindrome(ListNode head) {
         ListNode fast=head;
-        //if(fast==null || fast.next==null)return true;
+        if(fast==null || fast.next==null)return true;
         ListNode slow=head;
         while(fast.next!=null && fast.next.next!=null){
             fast=fast.next.next;
