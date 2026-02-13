@@ -10,32 +10,18 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        ListNode fast=head;
-        ListNode slow=head;
-        while(fast.next!=null && fast.next.next!=null){
-            slow=slow.next;
-            fast=fast.next.next;
-        }
-        slow.next=reverse(slow.next);
+        ArrayList<Integer> list=new ArrayList<>();
         ListNode temp=head;
-        slow=slow.next;
-        while(slow!=null){
-            if(temp.val!=slow.val)return false;
-            slow=slow.next;
+        while(temp!=null){
+            list.add(temp.val);
             temp=temp.next;
         }
-        return true;
-    }
-    public ListNode reverse(ListNode head){
-        ListNode curr=head;
-        ListNode prev=null;
-        ListNode next=head;
-        while(next!=null){
-            next=next.next;
-            curr.next=prev;
-            prev=curr;
-            curr=next;
+        int s=0, e=list.size()-1;
+        while(s<e){
+            if(list.get(s)!=list.get(e))return false;
+            s++;
+            e--;
         }
-        return prev;
+        return true;
     }
 }
