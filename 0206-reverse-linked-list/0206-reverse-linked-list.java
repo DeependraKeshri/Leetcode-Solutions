@@ -1,14 +1,14 @@
 class Solution { 
     public ListNode reverseList(ListNode head) {
-        Stack<ListNode> st = new Stack<>();
+        Stack<Integer> st = new Stack<>();
         ListNode temp = head;
         
         while (temp != null) {
-            st.push(new ListNode(temp.val));
+            st.push(temp.val);
             temp = temp.next;
         }
 
-        Queue<ListNode> q = new LinkedList<>();
+        Queue<Integer> q = new LinkedList<>();
         while (!st.isEmpty()) {
             q.add(st.pop());
         }
@@ -17,7 +17,7 @@ class Solution {
         ListNode curr = dummy;
 
         while (!q.isEmpty()) {
-            curr.next = q.poll();
+            curr.next =new ListNode(q.poll());
             curr = curr.next;
         }
 
