@@ -285,6 +285,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0771-jewels-and-stones](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0944-delete-columns-to-make-sorted](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -383,6 +384,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
