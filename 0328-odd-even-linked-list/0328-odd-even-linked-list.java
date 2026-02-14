@@ -15,17 +15,14 @@ class Solution {
         ListNode temp=head;
         ListNode e=even;
         ListNode o=odd;
-        int i=0;
         while(temp!=null){
-            if(i%2==1){
-                e.next=new ListNode(temp.val);
-                e=e.next;
-            }else{
-                o.next=new ListNode(temp.val);
-                o=o.next;
-            }
+            o.next=temp;
             temp=temp.next;
-            i++;
+            o=o.next;
+            e.next=temp;
+            if(temp==null)break;
+            temp=temp.next;
+            e=e.next;
         }
         o.next=even.next;
         return odd.next;
