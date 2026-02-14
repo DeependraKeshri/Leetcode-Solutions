@@ -5,23 +5,21 @@ class MyStack {
     }
     
     public void push(int x) {
-        q.add(x);
+        if(q.size()==0)q.add(x);
+        else{
+            q.add(x);
+            for(int i=1; i<q.size(); i++){
+                q.add(q.poll());
+            }
+        }
     }
     
     public int pop() {
-        for(int i=1; i<q.size(); i++){
-            q.add(q.remove());
-        }
         return q.remove();
     }
     
     public int top() {
-        for(int i=1; i<q.size(); i++){
-            q.add(q.remove());
-        }
-        int val=q.peek();
-        q.add(q.remove());
-        return val;
+        return q.element();
     }
     
     public boolean empty() {
