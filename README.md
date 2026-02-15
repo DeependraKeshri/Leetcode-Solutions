@@ -79,6 +79,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -133,6 +134,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -286,6 +288,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0771-jewels-and-stones](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0944-delete-columns-to-make-sorted](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -339,6 +342,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1486-xor-operation-in-an-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
