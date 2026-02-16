@@ -15,12 +15,12 @@ class Solution {
     }
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         if(p==root || q==root)return root;
-        if(p==q)return p;
-        boolean leftp=contains(root.left, p);
-        boolean rightp=contains(root.right, q);
-        if((leftp && rightp) || (!leftp && !rightp))return root;
-        if(leftp && !rightp)return lowestCommonAncestor(root.left,p,q);
-        if(!leftp && rightp)return lowestCommonAncestor(root.right,p,q);
+        if(p==q)return q;
+        boolean lt=contains(root.left, p);
+        boolean rt=contains(root.right, q);
+        if((lt && rt) || (!lt && !rt))return root;
+        if(lt && !rt)return lowestCommonAncestor(root.left, p, q);
+        if(!lt && rt)return lowestCommonAncestor(root.right, p, q);
         return null;
     }
 }
