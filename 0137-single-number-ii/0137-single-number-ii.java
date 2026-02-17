@@ -1,16 +1,15 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        HashMap<Integer,Integer> mp=new HashMap<>();
-        for(int i=0; i<nums.length; i++){
-            if(!mp.containsKey(nums[i])){
-                mp.put(nums[i],1);
-            }else{
-                mp.put(nums[i], mp.get(nums[i])+1);
+        int ans=0;
+        for(int i=0; i<32; i++){
+            int count=0;
+            for(int j=0; j<nums.length; j++){
+                if((nums[j] & (1<<i))!=0)count++;
+            }
+            if(count%3==1){
+                ans=ans | (1<<i);
             }
         }
-        for(int val: mp.keySet()){
-            if(mp.get(val)==1)return val;
-        }
-        return -1;
+        return ans;
     }
 }
