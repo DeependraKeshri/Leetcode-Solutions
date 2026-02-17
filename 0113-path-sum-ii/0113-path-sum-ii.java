@@ -30,8 +30,7 @@ class Solution {
     }
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
         List<List<Integer>> list=new ArrayList<>();
-        List<Integer> li=new ArrayList<>();
-        helper(root, list, li, targetSum);
+        helper(root, list, new ArrayList<>(), targetSum);
         return list;
     }
 }
