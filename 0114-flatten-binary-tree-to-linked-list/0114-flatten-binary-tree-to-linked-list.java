@@ -18,16 +18,16 @@ class Solution {
         if(root==null)return;
         TreeNode lt=root.left;
         TreeNode rt=root.right;
-        root.left=null;
         flatten(lt);
         flatten(rt);
-        root.right=lt;
-        TreeNode temp=lt;
-        while(temp!=null && temp.right!=null){
-            temp=temp.right;
+        if(lt!=null){
+            root.left=null;
+            root.right=lt;
+            TreeNode curr=root;
+            while(curr.right!=null){
+                curr=curr.right;
+            }
+            curr.right=rt;
         }
-        if(temp!=null)temp.right=rt;
-        else root.right=rt;
-        return;
     }
 }
