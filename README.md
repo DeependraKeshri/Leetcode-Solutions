@@ -81,6 +81,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
@@ -349,6 +350,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0137-single-number-ii) |
