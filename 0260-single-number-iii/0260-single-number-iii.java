@@ -5,11 +5,11 @@ class Solution {
             xor^=nums[i];
         }
         int rightmost=(xor&(xor-1))^xor;
-        int a=0, b=0;
+        int ans[]=new int[2];
         for(int i=0; i<nums.length; i++){
-            if((nums[i]&rightmost)!=0)a^=nums[i];
-            else b^=nums[i];
+            if((nums[i]&rightmost)!=0)ans[0]^=nums[i];
+            else ans[1]^=nums[i];
         }
-        return new int[]{a,b};
+        return ans;
     }
 }
