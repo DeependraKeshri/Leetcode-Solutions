@@ -1,15 +1,15 @@
 class Solution {
     public int[] singleNumber(int[] nums) {
-        ArrayList<Integer> list=new ArrayList<>();
-        for(int val:nums){
-            if(!list.contains(val))list.add(val);
-            else list.remove(Integer.valueOf(val));
+        int xor=0;
+        for(int i=0; i<nums.length; i++){
+            xor^=nums[i];
         }
-        int ans[]=new int[2];
-        for(int val:list){
-            if(ans[0]==0)ans[0]=val;
-            else ans[1]=val;
+        int rightmost=(xor&(xor-1))^xor;
+        int a=0, b=0;
+        for(int i=0; i<nums.length; i++){
+            if((nums[i]&rightmost)!=0)a^=nums[i];
+            else b^=nums[i];
         }
-        return ans;
+        return new int[]{a,b};
     }
 }
