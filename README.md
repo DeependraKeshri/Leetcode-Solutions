@@ -356,6 +356,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0693-binary-number-with-alternating-bits](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1486-xor-operation-in-an-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
