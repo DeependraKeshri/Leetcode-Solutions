@@ -1,10 +1,12 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int n=nums.length;
-        int sum=(int)((n+1)*((float)n/2));
-        for(int i=0; i<n; i++){
-            sum-=nums[i];
+        HashSet<Integer> set=new HashSet<>();
+        for(int i=0; i<nums.length; i++){
+            set.add(nums[i]);
         }
-        return sum;
+        for(int i=0; i<=nums.length; i++){
+            if(!set.contains(i))return i;
+        }
+        return -1;
     }
 }
