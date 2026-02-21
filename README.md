@@ -93,6 +93,7 @@
 | [0231-power-of-two](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -380,6 +381,7 @@
 | [0260-single-number-iii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1486-xor-operation-in-an-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
