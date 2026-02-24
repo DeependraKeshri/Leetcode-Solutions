@@ -14,19 +14,19 @@
  * }
  */
 class Solution {
-    int sum=0;
-    public void helper(TreeNode root, String s){
-        if(root==null)return;
-        if(root.left==null && root.right==null){
-            s+=root.val;
-            sum+=Integer.parseInt(s,2);
+    int sum = 0;
+    public void helper(TreeNode root, int curr){
+        if(root == null) return;
+        curr = (curr << 1) | root.val;
+        if(root.left == null && root.right == null){
+            sum += curr;
             return;
         }
-        helper(root.left, s+root.val);
-        helper(root.right, s+root.val);
+        helper(root.left, curr);
+        helper(root.right, curr);
     }
     public int sumRootToLeaf(TreeNode root) {
-        helper(root,"");
+        helper(root, 0);
         return sum;
     }
 }
