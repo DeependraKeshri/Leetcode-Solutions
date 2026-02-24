@@ -30,6 +30,7 @@
 | [0840-magic-squares-in-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0976-largest-perimeter-triangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1018-largest-perimeter-triangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -97,6 +98,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
+| [0976-largest-perimeter-triangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -198,6 +200,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0976-largest-perimeter-triangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1018-largest-perimeter-triangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1382-balance-a-binary-search-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1917-maximum-average-pass-ratio](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -266,6 +269,7 @@
 | [0268-missing-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0976-largest-perimeter-triangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1018-largest-perimeter-triangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
