@@ -74,6 +74,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3321-type-of-triangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 | [3379-transformed-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -123,6 +124,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3280-convert-date-to-binary](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3280-convert-date-to-binary) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3321-type-of-triangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -198,6 +200,7 @@
 | [2325-decode-the-message](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2325-decode-the-message) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
