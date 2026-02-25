@@ -1,11 +1,11 @@
 class Solution {
     public int finalValueAfterOperations(String[] operations) {
-        int x=0;
+        int val=0;
         for(int i=0; i<operations.length; i++){
-            String ch=operations[i];
-            if(ch.equals("++X") || ch.equals("X++"))x++;
-            if(ch.equals("--X") || ch.equals("X--"))x--;
+            String s=operations[i];
+            if(s.equals("--X") || s.equals("X--"))val--;
+            else val++;
         }
-        return x;
+        return val;
     }
 }
