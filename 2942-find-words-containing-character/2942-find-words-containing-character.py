@@ -1,7 +1,7 @@
 class Solution:
     def findWordsContaining(self, words: List[str], x: str) -> List[int]:
-        lst=[]
-        for i in range(0,len(words)):
+        list=[]
+        for i in range(len(words)):
             if x in words[i]:
-                lst.append(i)
-        return lst
+                list.append(i)
+        return list
