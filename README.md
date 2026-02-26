@@ -163,6 +163,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -353,6 +354,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -417,6 +419,7 @@
 | [0868-binary-gap](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1486-xor-operation-in-an-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
