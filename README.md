@@ -90,6 +90,7 @@
 | [3637-trionic-array-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 | [3668-restore-finishing-order](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3693-climbing-stairs-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
+| [3701-compute-alternating-sum](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
 | [4008-restore-finishing-order](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/4008-restore-finishing-order) |
@@ -179,6 +180,7 @@
 | [2596-check-knight-tour-configuration](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [3336-water-bottles-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3379-transformed-array) |
+| [3701-compute-alternating-sum](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
 |  |
 | ------- |
