@@ -173,6 +173,7 @@
 | [0067-add-binary](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1642-water-bottles](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1920-build-array-from-permutation](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -369,6 +370,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -519,6 +521,7 @@
 | [0231-power-of-two](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Monotonic Stack
 |  |
 | ------- |
