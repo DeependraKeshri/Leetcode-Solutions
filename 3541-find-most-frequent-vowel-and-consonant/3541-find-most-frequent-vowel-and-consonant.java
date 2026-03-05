@@ -2,18 +2,16 @@ class Solution {
     public int maxFreqSum(String s) {
         int arr[]=new int[26];
         for(int i=0; i<s.length(); i++){
-            int ch=s.charAt(i)-'a';
-            arr[ch]++;
+            arr[s.charAt(i)-'a']++;
         }
-        int vol=0;
-        int con=0;
+        int maxvow=0, maxcon=0;
         for(int i=0; i<26; i++){
             if(i==0 || i==4 || i==8 || i==14 || i==20){
-                if(vol<arr[i])vol=arr[i];
+                if(maxvow<arr[i])maxvow=arr[i];
             }else{
-                if(con<arr[i])con=arr[i];
+                if(maxcon<arr[i])maxcon=arr[i];
             }
         }
-        return vol+con;
+        return maxvow+maxcon;
     }
 }
