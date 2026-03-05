@@ -378,6 +378,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2000-reverse-prefix-of-word](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
