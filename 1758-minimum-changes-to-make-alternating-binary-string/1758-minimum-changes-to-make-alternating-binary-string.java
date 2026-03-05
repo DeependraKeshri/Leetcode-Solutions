@@ -1,15 +1,15 @@
 class Solution {
     public int minOperations(String s) {
-        int eone=0, ezero=0, oone=0, ozero=0;
-        for(int i=0; i<s.length(); i+=2){
-            if(s.charAt(i)=='1') eone++;
-            else ezero++;
+        int c=0, count=0;
+        for(int i=0; i<s.length(); i++){
+            if(i%2==0){
+                if(s.charAt(i)=='1')c++;
+                else count++;
+            }else{
+                if(s.charAt(i)=='1')count++;
+                else c++;
+            }
         }
-        for(int i=1; i<s.length(); i+=2){
-            if(s.charAt(i)=='1') oone++;
-            else ozero++;
-        }
-        int c=Math.min(eone+ozero, ezero+oone);
-        return c;
+        return Math.min(c,count);
     }
 }
