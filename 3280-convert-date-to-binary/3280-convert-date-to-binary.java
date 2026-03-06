@@ -1,16 +1,15 @@
 class Solution {
     public String convertDateToBinary(String date) {
         String arr[]=date.split("-");
+        StringBuilder sb=new StringBuilder();
         for(int i=0; i<arr.length; i++){
-            arr[i]=Integer.toBinaryString(Integer.parseInt(arr[i]));
-        }
-        String ans="";
-        for(int i=0; i<arr.length; i++){
-            ans+=arr[i];
-            if(i!=arr.length-1){
-                ans+="-";
+            String s=Integer.toBinaryString(Integer.parseInt(arr[i]));
+            if(i==arr.length-1){
+                sb.append(s);
+            }else{
+                sb.append(s+'-');
             }
         }
-        return ans;
+        return sb.toString();
     }
 }
