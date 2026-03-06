@@ -1,12 +1,12 @@
 class Solution {
     public int findPermutationDifference(String s, String t) {
-        HashMap<Character,Integer> mp=new HashMap<>();
-        for(int i=0; i<s.length(); i++){
-            mp.put(s.charAt(i),i);
-        }
+        int arr[]=new int[26];
         int sum=0;
+        for(int i=0; i<s.length(); i++){
+            arr[s.charAt(i)-'a']=i;
+        }
         for(int i=0; i<t.length(); i++){
-            sum+=Math.abs(i-mp.get(t.charAt(i)));
+            sum+=Math.abs(i-arr[t.charAt(i)-'a']);
         }
         return sum;
     }
