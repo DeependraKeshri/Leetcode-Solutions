@@ -1,21 +1,17 @@
 class Solution {
-    public void helper(String curr, int n, ArrayList<String> list){
-    if(curr.length() == n){
-        list.add(curr);
-        return;
-    }
-    helper(curr + "0", n, list);
-    helper(curr + "1", n, list);
-}
     public String findDifferentBinaryString(String[] nums) {
-        ArrayList<String> list=new ArrayList<>();
-        helper("",nums.length, list);
-        HashSet<String> set=new HashSet<>();
+        HashSet<Integer> set=new HashSet<>();
         for(int i=0; i<nums.length; i++){
-            set.add(nums[i]);
+            set.add(Integer.parseInt(nums[i],2));
         }
-        for(int i=0; i<list.size(); i++){
-            if(!set.contains(list.get(i)))return list.get(i);
+        for(int i = 0; i <= nums.length; i++){
+            if(!set.contains(i)){
+                String s = Integer.toBinaryString(i);
+                while(s.length() < nums.length){
+                    s = "0" + s;
+                }
+                return s;
+            }
         }
         return "";
     }
