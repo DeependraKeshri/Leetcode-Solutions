@@ -56,6 +56,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1920-build-array-from-permutation](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [1980-find-unique-binary-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -226,6 +227,7 @@
 | [1635-number-of-good-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [1980-find-unique-binary-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2169-simple-bank-system](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -404,6 +406,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [1980-find-unique-binary-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2000-reverse-prefix-of-word](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2211-count-collisions-on-a-road) |
@@ -490,6 +493,7 @@
 | [0113-path-sum-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1980-find-unique-binary-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 ## Depth-First Search
 |  |
 | ------- |
