@@ -54,6 +54,7 @@
 | [1672-richest-customer-wealth](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1920-build-array-from-permutation](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -265,6 +266,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -309,6 +311,7 @@
 | [0611-valid-triangle-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0832-flipping-an-image](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -352,6 +355,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
