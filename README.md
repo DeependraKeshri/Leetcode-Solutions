@@ -63,6 +63,7 @@
 | [2048-build-array-from-permutation](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-simple-bank-system](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
@@ -305,6 +306,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -422,6 +424,7 @@
 | [1980-find-unique-binary-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2000-reverse-prefix-of-word](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2211-count-collisions-on-a-road](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
