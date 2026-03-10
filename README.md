@@ -227,6 +227,7 @@
 | [0268-missing-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0763-partition-labels](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0840-magic-squares-in-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -261,6 +262,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0763-partition-labels](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0976-largest-perimeter-triangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1018-largest-perimeter-triangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -309,6 +311,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0763-partition-labels](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
@@ -417,6 +420,7 @@
 | [0067-add-binary](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0763-partition-labels](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0944-delete-columns-to-make-sorted](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
