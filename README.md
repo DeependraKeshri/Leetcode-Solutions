@@ -508,6 +508,7 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2326-spiral-matrix-iv](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2326-spiral-matrix-iv) |
+| [2487-remove-nodes-from-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Bit Manipulation
@@ -608,6 +609,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2211-count-collisions-on-a-road) |
+| [2487-remove-nodes-from-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -619,6 +621,7 @@
 | [0234-palindrome-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -626,6 +629,7 @@
 | [0496-next-greater-element-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [1504-count-submatrices-with-all-ones](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1504-count-submatrices-with-all-ones) |
+| [2487-remove-nodes-from-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Queue
 |  |
 | ------- |
