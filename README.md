@@ -74,6 +74,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2326-spiral-matrix-iv](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -192,6 +193,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2326-spiral-matrix-iv](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2596-check-knight-tour-configuration](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
@@ -218,6 +220,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2326-spiral-matrix-iv](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2596-check-knight-tour-configuration](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [3336-water-bottles-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3379-transformed-array) |
@@ -504,6 +507,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2326-spiral-matrix-iv](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Bit Manipulation
