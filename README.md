@@ -99,6 +99,7 @@
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3321-type-of-triangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3321-type-of-triangle) |
 | [3349-adjacent-increasing-subarrays-detection-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3349-adjacent-increasing-subarrays-detection-i) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3379-transformed-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -352,6 +353,7 @@
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 ## Sorting
 |  |
 | ------- |
