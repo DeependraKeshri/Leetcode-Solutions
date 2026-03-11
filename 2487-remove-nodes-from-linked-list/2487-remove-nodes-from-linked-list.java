@@ -13,17 +13,18 @@ class Solution {
         ListNode temp=head;
         Stack<Integer> st=new Stack<>();
         while(temp!=null){
-            while(!st.isEmpty() && st.peek()<temp.val){
-                st.pop();
-            }
             st.push(temp.val);
             temp=temp.next;
         }
         ListNode t=new ListNode(st.pop());
         while(!st.isEmpty()){
-            ListNode dummy=new ListNode(st.pop());
-            dummy.next=t;
-            t=dummy;
+            if(st.peek()>=t.val){
+                ListNode dummy=new ListNode(st.pop());
+                dummy.next=t;
+                t=dummy;
+            }else{
+                st.pop();
+            }
         }
         return t;
     }
