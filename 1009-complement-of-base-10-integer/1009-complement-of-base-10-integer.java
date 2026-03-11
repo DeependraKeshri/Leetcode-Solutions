@@ -1,12 +1,14 @@
 class Solution {
     public int bitwiseComplement(int n) {
-        String str=Integer.toBinaryString(n);
-        String s="";
-        for(int i=0; i<str.length(); i++){
-            if(str.charAt(i)=='1')s+='0';
-            else s+='1';
+        if(n==0)return 1;
+        int num=n;
+        int i=0;
+        while(i<31){
+            int val=1<<i;
+            if(val>n)break;
+            num=num^val;
+            i++;
         }
-        int num=Integer.parseInt(s,2);
         return num;
     }
 }
