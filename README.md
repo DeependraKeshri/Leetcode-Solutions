@@ -241,6 +241,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0705-design-hashset](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0706-design-hashmap) |
@@ -303,6 +304,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -447,6 +449,7 @@
 | [0058-length-of-last-word](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0387-first-unique-character-in-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0763-partition-labels](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
@@ -659,6 +662,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Tree
 |  |
 | ------- |
