@@ -57,6 +57,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1920-build-array-from-permutation](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -152,6 +153,7 @@
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -198,6 +200,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2326-spiral-matrix-iv](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2326-spiral-matrix-iv) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -304,6 +307,7 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Counting
@@ -394,6 +398,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -573,6 +578,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2574-left-and-right-sum-differences](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
