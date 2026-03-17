@@ -55,6 +55,7 @@
 | [1635-number-of-good-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -202,6 +203,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2326-spiral-matrix-iv](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2326-spiral-matrix-iv) |
@@ -299,6 +301,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1382-balance-a-binary-search-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -402,6 +405,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
