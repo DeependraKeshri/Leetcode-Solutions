@@ -1,11 +1,13 @@
 class Solution:
+    def helper(self, arr, n):
+        if arr[n] != -1:
+            return arr[n]
+        arr[n] = self.helper(arr, n-1) + self.helper(arr, n-2)
+        return arr[n]
+
     def fib(self, n: int) -> int:
-        if n==0 or n==1:
-            return n
-        a=0
-        b=1
-        for i in range(2,n+1):
-            c=a+b
-            a=b
-            b=c
-        return b
+        arr = [-1] * (n + 1)
+        arr[0] = 0
+        if n > 0:
+            arr[1] = 1
+        return self.helper(arr, n)
