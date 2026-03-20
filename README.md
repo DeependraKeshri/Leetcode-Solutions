@@ -158,6 +158,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
