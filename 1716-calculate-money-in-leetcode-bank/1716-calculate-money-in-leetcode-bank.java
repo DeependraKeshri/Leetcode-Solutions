@@ -1,16 +1,17 @@
 class Solution {
     public int totalMoney(int n) {
-        int sum=0, val=0, num=0, curr=0;
-        while(num<n){
-            if(num%7==0){
-                curr++;
-                val=curr;
-                sum+=val;
-            }else{
-                val++;
-                sum+=val;
+        int q=n/7;
+        int r=n%7;
+        int sum=0;
+        if(q>0){
+            sum+=28*q;
+            for(int i=1; i<q; i++){
+                sum+=(7*i);
             }
-            num++;
+        }
+        for(int i=0; i<r; i++){
+            q++;
+            sum+=q;
         }
         return sum;
     }
