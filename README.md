@@ -862,4 +862,8 @@
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1622-fancy-sequence) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
