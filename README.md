@@ -866,5 +866,6 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
+| [1757-recyclable-and-low-fat-products](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
