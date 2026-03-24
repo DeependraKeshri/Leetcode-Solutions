@@ -130,6 +130,7 @@
 | [3701-compute-alternating-sum](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3778-transform-array-by-parity](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
+| [3838-weighted-word-mapping](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 | [4008-restore-finishing-order](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/4008-restore-finishing-order) |
 ## Math
 |  |
@@ -257,6 +258,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3838-weighted-word-mapping](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -537,6 +539,7 @@
 | [3760-maximum-substrings-with-distinct-start](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3838-weighted-word-mapping](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
 ## Design
 |  |
 | ------- |
