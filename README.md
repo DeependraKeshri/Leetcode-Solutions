@@ -119,6 +119,7 @@
 | [3467-transform-array-by-parity](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3546-equal-sum-grid-partition-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -224,6 +225,7 @@
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2596-check-knight-tour-configuration](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3546-equal-sum-grid-partition-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Simulation
@@ -487,6 +489,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2367-number-of-arithmetic-triplets](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 ## String
 |  |
 | ------- |
@@ -626,6 +629,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3546-equal-sum-grid-partition-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
 ## Backtracking
 |  |
 | ------- |
