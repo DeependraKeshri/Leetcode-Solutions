@@ -536,6 +536,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2325-decode-the-message](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2325-decode-the-message) |
 | [2785-sort-vowels-in-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2942-find-words-containing-character](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
