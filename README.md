@@ -148,6 +148,7 @@
 | [0231-power-of-two](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
@@ -612,6 +613,7 @@
 | [0231-power-of-two](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0693-binary-number-with-alternating-bits](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
@@ -719,6 +721,7 @@
 | [0231-power-of-two](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
