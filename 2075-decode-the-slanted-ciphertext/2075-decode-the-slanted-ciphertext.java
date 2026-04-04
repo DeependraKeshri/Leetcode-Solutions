@@ -1,0 +1,16 @@
+class Solution {
+    public String decodeCiphertext(String encodedText, int rows) {
+        int n = encodedText.length();
+        int cols = n / rows;
+        StringBuilder res = new StringBuilder();
+        for(int c = 0; c < cols; c++){
+            int i = 0, j = c;
+            while(i < rows && j < cols){
+                res.append(encodedText.charAt(i * cols + j));
+                i++;
+                j++;
+            }
+        }
+        return res.toString().replaceAll("\\s+$", "");
+    }
+}
