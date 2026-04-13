@@ -3,7 +3,8 @@ class Solution {
         int ans=Integer.MAX_VALUE;
         for(int i=0; i<nums.length; i++){
             if(nums[i]==target){
-                int val=Math.abs(start-i);
+                int val=(start-i);
+                if(val<0)val*=(-1);
                 if(val<ans)ans=val;
             }
         }
