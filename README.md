@@ -60,6 +60,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -409,6 +410,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -437,6 +439,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
