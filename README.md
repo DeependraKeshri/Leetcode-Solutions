@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -151,6 +152,7 @@
 | [0009-palindrome-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0069-sqrtx) |
@@ -226,6 +228,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0407-trapping-rain-water-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
