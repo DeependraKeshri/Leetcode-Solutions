@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0048-rotate-image) |
@@ -440,6 +441,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
