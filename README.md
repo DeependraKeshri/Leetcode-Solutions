@@ -103,6 +103,7 @@
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2574-left-and-right-sum-differences](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -335,6 +336,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2325-decode-the-message](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2325-decode-the-message) |
 | [2367-number-of-arithmetic-triplets](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2540-minimum-common-value](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2784-check-if-array-is-good](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2784-check-if-array-is-good) |
 | [3146-permutation-difference-between-two-strings](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
@@ -439,6 +441,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2396-strictly-palindromic-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
+| [2540-minimum-common-value](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -464,6 +467,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
