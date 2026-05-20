@@ -8,11 +8,9 @@ class Solution {
         for(int i=0; i<n; i++){
             set1.add(B[i]);
             set2.add(A[i]);
-            if(A[i]==B[i])count++;
-            else{
-                if(set1.contains(A[i]))count++;
-                if(set2.contains(B[i]))count++;
-            }
+            if(set1.contains(A[i]))count++;
+            if(set2.contains(B[i]))count++;
+            if(A[i]==B[i])count--;
             ans[i]=count;
         }
         return ans;
