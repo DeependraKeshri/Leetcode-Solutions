@@ -966,6 +966,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [1068-product-sales-analysis-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1683-invalid-tweets](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1693-daily-leads-and-partners) |
