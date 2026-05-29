@@ -980,6 +980,7 @@
 | [0511-game-play-analysis-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1068-product-sales-analysis-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1683-invalid-tweets](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1693-daily-leads-and-partners) |
