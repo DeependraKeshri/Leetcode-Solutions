@@ -986,6 +986,7 @@
 | [0607-sales-person](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1683-invalid-tweets](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1693-daily-leads-and-partners) |
