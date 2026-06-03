@@ -150,6 +150,7 @@
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3668-restore-finishing-order](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
@@ -395,6 +396,7 @@
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -465,6 +467,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3794-reverse-string-prefix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
@@ -494,6 +497,7 @@
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -536,6 +540,7 @@
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3778-transform-array-by-parity](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
 ## Geometry
 |  |
