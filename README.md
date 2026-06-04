@@ -227,6 +227,7 @@
 | [3516-find-closest-person](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3516-find-closest-person) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
@@ -244,6 +245,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3693-climbing-stairs-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Matrix
 |  |
 | ------- |
@@ -583,6 +585,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String
 |  |
 | ------- |
