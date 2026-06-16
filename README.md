@@ -311,6 +311,7 @@
 | [3379-transformed-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3379-transformed-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
@@ -643,6 +644,7 @@
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3612-process-string-with-special-operations-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
