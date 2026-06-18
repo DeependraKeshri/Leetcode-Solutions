@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0066-plus-one) |
@@ -510,6 +511,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0148-sort-list) |
@@ -748,6 +750,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
 | [0113-path-sum-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
