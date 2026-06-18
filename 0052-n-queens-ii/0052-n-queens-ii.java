@@ -1,33 +1,25 @@
 class Solution {
+    int count=0;
     public int totalNQueens(int n) {
-        HashSet<List> list=new HashSet<>();
         char [][] board=new char[n][n];
         for(int i=0; i<n; i++){
             for(int j=0; j<n; j++){
                 board[i][j]='.';
             }
         }
-        nqueen(board, 0, list);
-        return list.size();
+        nqueen(board, 0);
+        return count;
     }
-    public void nqueen(char [][] board, int row, HashSet<List> list){
+    public void nqueen(char [][] board, int row){
         int n=board.length;
         if(row==n){
-            List<String> l=new ArrayList<>();
-            for(int i=0; i<n; i++){
-                String s="";
-                for(int j=0; j<n; j++){
-                    s+=board[i][j];
-                }
-                l.add(s);
-            }
-            list.add(l);
+            count++;
             return;
         }
         for(int j=0; j<n; j++){
             if(isSafe(board, row, j)){
                 board[row][j]='Q';
-                nqueen(board, row+1, list);
+                nqueen(board, row+1);
                 board[row][j]='.';
             }
         }
