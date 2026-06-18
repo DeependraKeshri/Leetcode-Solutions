@@ -30,6 +30,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -260,6 +261,7 @@
 | [0037-sudoku-solver](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0832-flipping-an-image](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
@@ -497,6 +499,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
@@ -958,6 +961,7 @@
 | [0148-sort-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0190-reverse-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Merge Sort
 |  |
