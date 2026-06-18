@@ -1,45 +1,26 @@
 class Solution {
     public boolean isValidSudoku(char[][] board) {
-        for (int i = 0; i < 9; i++) {
-            if (!checkRow(board, i) || !checkCol(board, i)) return false;
-        }
-
-        for (int i = 0; i < 9; i += 3) {
-            for (int j = 0; j < 9; j += 3) {
-                if (!checkMat(board, i, j)) return false;
+        for(int i=0; i<9; i++){
+            for(int j=0; j<9; j++){
+                if(board[i][j]=='.')continue;
+                char num=board[i][j];
+                board[i][j]='.';
+                if(isvalid(board, i, j, num)==false)return false;
+                board[i][j]=num;
             }
         }
-
         return true;
     }
-
-    public boolean checkRow(char[][] board, int i) {
-        HashSet<Character> set = new HashSet<>();
-        for (int j = 0; j < 9; j++) {
-            if (board[i][j] == '.') continue;
-            if (set.contains(board[i][j])) return false;
-            set.add(board[i][j]);
+    public boolean isvalid(char board[][], int row, int col, char num){
+        for(int i=0; i<9; i++){
+            if(board[row][i]==num)return false;
+            if(board[i][col]==num)return false;
         }
-        return true;
-    }
-
-    public boolean checkCol(char[][] board, int j) {
-        HashSet<Character> set = new HashSet<>();
-        for (int i = 0; i < 9; i++) {
-            if (board[i][j] == '.') continue;
-            if (set.contains(board[i][j])) return false;
-            set.add(board[i][j]);
-        }
-        return true;
-    }
-
-    public boolean checkMat(char[][] board, int i, int j) {
-        HashSet<Character> set = new HashSet<>();
-        for (int l = i; l < i + 3; l++) {
-            for (int m = j; m < j + 3; m++) {
-                if (board[l][m] == '.') continue;
-                if (set.contains(board[l][m])) return false;
-                set.add(board[l][m]);
+        int sRow=row/3*3;
+        int sCol=col/3*3;
+        for(int i=sRow; i<sRow+3; i++){
+            for(int j=sCol; j<sCol+3; j++){
+                if(board[i][j]==num)return false;
             }
         }
         return true;
