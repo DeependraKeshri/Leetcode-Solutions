@@ -73,6 +73,7 @@
 | [1672-richest-customer-wealth](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1732-find-the-highest-altitude](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -750,6 +751,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2574-left-and-right-sum-differences](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
