@@ -350,6 +350,7 @@
 | [0840-magic-squares-in-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -429,6 +430,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -626,6 +628,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1189-maximum-number-of-balloons](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
