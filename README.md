@@ -58,6 +58,7 @@
 | [1293-three-consecutive-odds](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1306-jump-game-iii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -358,6 +359,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1331-rank-transform-of-an-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -546,6 +548,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
