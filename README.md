@@ -613,6 +613,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
