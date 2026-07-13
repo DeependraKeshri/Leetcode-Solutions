@@ -27,7 +27,7 @@ class Solution {
         }
         int ans=-1;
         for(int i=0; i<n; i++){
-            int val=heights[i]*(pse[i]-nse[i]-1);
+            int val=heights[i]*(nse[i]-pse[i]-1);
             if(val>ans)ans=val;
         }
         return ans;
