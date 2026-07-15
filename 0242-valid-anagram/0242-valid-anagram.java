@@ -11,9 +11,6 @@ class Solution {
             char c=t.charAt(i);
             mp2.put(c,mp2.getOrDefault(c,0)+1);
         }
-        for(char ch:mp1.keySet()){
-            if(!mp1.get(ch).equals(mp2.get(ch)))return false;
-        }
-        return true;
+        return mp1.equals(mp2);
     }
 }
