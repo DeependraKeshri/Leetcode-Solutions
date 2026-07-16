@@ -175,6 +175,7 @@
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3778-transform-array-by-parity](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
 | [3838-weighted-word-mapping](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [4008-restore-finishing-order](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/4008-restore-finishing-order) |
 ## Math
 |  |
@@ -247,6 +248,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -334,6 +336,7 @@
 | [3701-compute-alternating-sum](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -505,6 +508,7 @@
 | [3643-flip-square-submatrix-vertically](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3794-reverse-string-prefix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -584,6 +588,7 @@
 | [3634-minimum-removals-to-balance-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3778-transform-array-by-parity](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Geometry
 |  |
 | ------- |
@@ -1021,6 +1026,7 @@
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
 |  |
 | ------- |
