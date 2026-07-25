@@ -39,6 +39,7 @@
 | [0498-diagonal-traverse](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0611-valid-triangle-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0645-set-mismatch](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -362,6 +363,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0763-partition-labels](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0763-partition-labels) |
@@ -560,6 +562,7 @@
 | [0268-missing-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
+| [0645-set-mismatch](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1018-largest-perimeter-triangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -774,6 +777,7 @@
 | [0260-single-number-iii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
