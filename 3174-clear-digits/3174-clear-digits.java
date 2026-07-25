@@ -9,10 +9,10 @@ class Solution {
                 if(!st.isEmpty())st.pop();
             }
         }
-        String str="";
+        StringBuilder sb=new StringBuilder();
         while(!st.isEmpty()){
-            str=st.pop()+str;
+            sb.insert(0,st.pop());
         }
-        return str;
+        return sb.toString();
     }
 }
