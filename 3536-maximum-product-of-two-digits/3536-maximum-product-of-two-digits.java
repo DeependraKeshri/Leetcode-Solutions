@@ -1,24 +1,25 @@
 class Solution {
     public int maxProduct(int n) {
-        int firstmax=Integer.MIN_VALUE;
-        int secondmax=Integer.MIN_VALUE;
-        int num=n;
-        while(num>0){
-            int val=num%10;
-            if(val>firstmax)firstmax=val;
-            num/=10;
+        int arr[]=new int[10];
+        while(n>0){
+            int val=n%10;
+            arr[val]++;
+            n/=10;
         }
-        num=n;
-        int count=0;
-        while(num>0){
-            int val=num%10;
-            if(val>secondmax && val!=firstmax){
-                secondmax=val;
+        int first=Integer.MIN_VALUE, second=Integer.MIN_VALUE;
+        for(int i=9; i>=0; i--){
+            if(arr[i]>1){
+                if(first==Integer.MIN_VALUE)return i*i;
+                else return first*i;
             }
-            if(val==firstmax)count++;
-            num/=10;
+            else if(arr[i]==1){
+                if(first==Integer.MIN_VALUE)first=i;
+                else{
+                    second=i;
+                    break;
+                }
+            }
         }
-        if(count>1)secondmax=firstmax;
-        return firstmax*secondmax;
+        return first*second;
     }
 }
