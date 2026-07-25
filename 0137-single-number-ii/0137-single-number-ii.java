@@ -6,9 +6,7 @@ class Solution {
             for(int j=0; j<nums.length; j++){
                 if((nums[j] & (1<<i))!=0)count++;
             }
-            if(count%3==1){
-                ans=ans | (1<<i);
-            }
+            if(count%3==1)ans|=(1<<i);
         }
         return ans;
     }
