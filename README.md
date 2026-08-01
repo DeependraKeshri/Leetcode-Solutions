@@ -270,6 +270,7 @@
 | [0486-predict-the-winner](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0788-rotated-digits) |
+| [1143-longest-common-subsequence](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1504-count-submatrices-with-all-ones](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1504-count-submatrices-with-all-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -687,6 +688,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1143-longest-common-subsequence](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
