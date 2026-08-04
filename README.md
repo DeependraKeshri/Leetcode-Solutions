@@ -177,6 +177,7 @@
 | [3689-maximum-total-subarray-value-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3693-climbing-stairs-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3701-compute-alternating-sum](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -425,6 +426,7 @@
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3668-restore-finishing-order](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -622,6 +624,7 @@
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3731-find-missing-elements](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3778-transform-array-by-parity) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Geometry
