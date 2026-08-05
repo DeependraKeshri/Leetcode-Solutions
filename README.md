@@ -649,6 +649,7 @@
 | [0112-path-sum](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0617-merge-two-binary-trees](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -872,6 +873,7 @@
 | [0226-invert-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
@@ -972,6 +974,7 @@
 | [0226-invert-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
@@ -1010,6 +1013,7 @@
 | [0226-invert-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
