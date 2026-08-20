@@ -142,6 +142,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -351,6 +352,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3174-clear-digits](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3174-clear-digits) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3336-water-bottles-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
