@@ -1,9 +1,10 @@
 class Solution {
     public boolean checkDivisibility(int n) {
-        String str=Integer.toString(n);
+        int v=n;
         int prod=1, sum=0;
-        for(int i=0; i<str.length(); i++){
-            int val=str.charAt(i)-'0';
+        while(v>0){
+            int val=v%10;
+            v/=10;
             prod*=val;
             sum+=val;
         }
