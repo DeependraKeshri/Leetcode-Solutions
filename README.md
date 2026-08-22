@@ -262,6 +262,7 @@
 | [3516-find-closest-person](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
