@@ -14,21 +14,23 @@
  * }
  */
 class Solution {
-    public int sum(TreeNode root){
-        if(root==null)return 0;
-        return root.val+sum(root.left)+sum(root.right);
-    }
-    public int count(TreeNode root){
-        if(root==null)return 0;
-        return count(root.left)+count(root.right)+1;
-    }
-    int c=0;
+    int count=0;
     public int averageOfSubtree(TreeNode root) {
+        helper(root);
+        return count;
+    }
+    public void helper(TreeNode root){
+        if(root==null)return;
+        if(root.val==(nodeSum(root)/countNode(root)))count++;
+        helper(root.left);
+        helper(root.right);
+    }
+    public int countNode(TreeNode root){
         if(root==null)return 0;
-        int avg=sum(root)/count(root);
-        if(root.val==avg)c++;
-        averageOfSubtree(root.left);
-        averageOfSubtree(root.right);
-        return c;
+        return countNode(root.left)+countNode(root.right)+1;
+    }
+    public int nodeSum(TreeNode root){
+        if(root==null)return 0;
+        return nodeSum(root.left) + nodeSum(root.right) + root.val;
     }
 }
