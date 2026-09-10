@@ -21,7 +21,8 @@ class Solution {
     }
     public void helper(TreeNode root){
         if(root==null)return;
-        if(root.val==(nodeSum(root)/countNode(root)))count++;
+        int sum=nodeSum(root), node=countNode(root);
+        if(root.val==(sum/node))count++;
         helper(root.left);
         helper(root.right);
     }
