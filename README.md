@@ -835,6 +835,7 @@
 | [0338-counting-bits](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -876,6 +877,7 @@
 | [0052-n-queens-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
 | [0113-path-sum-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
