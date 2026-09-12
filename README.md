@@ -839,6 +839,7 @@
 | [0389-find-the-difference](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0461-hamming-distance](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
