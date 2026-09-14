@@ -215,6 +215,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -652,6 +653,7 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 ## Combinatorics
 |  |
 | ------- |
