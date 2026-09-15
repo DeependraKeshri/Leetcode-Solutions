@@ -3,7 +3,7 @@ class Solution {
         int count=0;
         while(num>0){
             if((num & 1) == 0) num >>= 1;
-            else num--;
+            else num=num & (num-1);
             count++;
         }
         return count;
