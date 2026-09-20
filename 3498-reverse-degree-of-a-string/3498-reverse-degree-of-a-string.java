@@ -1,15 +1,10 @@
 class Solution {
     public int reverseDegree(String s) {
-        int arr[]=new int[26];
-        int j=26;
-        for(int i=0; i<26; i++){
-            arr[i]=j--;
-        }
-        int sum=0;
+        int count=0;
         for(int i=0; i<s.length(); i++){
-            int val=s.charAt(i)-'a';
-            sum+=((i+1)*arr[val]);
+            int val=Math.abs('z'-s.charAt(i)+1);
+            count+=(val*(i+1));
         }
-        return sum;
+        return count;
     }
 }
