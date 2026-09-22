@@ -421,6 +421,7 @@
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2325-decode-the-message](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2325-decode-the-message) |
+| [2351-first-letter-to-appear-twice](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2367-number-of-arithmetic-triplets](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2540-minimum-common-value](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -505,6 +506,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -753,6 +755,7 @@
 | [2264-largest-3-same-digit-number-in-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2325-decode-the-message](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2325-decode-the-message) |
+| [2351-first-letter-to-appear-twice](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2785-sort-vowels-in-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2833-furthest-point-from-origin) |
@@ -863,6 +866,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2032-two-out-of-three](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2032-two-out-of-three) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
