@@ -39,6 +39,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -551,6 +552,7 @@
 | [0148-sort-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
