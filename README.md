@@ -412,6 +412,7 @@
 | [0290-word-pattern](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -519,6 +520,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -756,6 +758,7 @@
 | [0290-word-pattern](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
