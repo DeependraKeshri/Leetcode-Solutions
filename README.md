@@ -50,6 +50,7 @@
 | [0498-diagonal-traverse](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0575-distribute-candies](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0611-valid-triangle-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0645-set-mismatch) |
@@ -422,6 +423,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0706-design-hashmap) |
