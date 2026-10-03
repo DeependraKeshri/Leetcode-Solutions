@@ -297,6 +297,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0338-counting-bits) |
@@ -752,6 +753,7 @@
 | [0020-valid-parentheses](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
@@ -991,6 +993,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -1263,6 +1266,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Floyd's Cycle Finding Algorithm
