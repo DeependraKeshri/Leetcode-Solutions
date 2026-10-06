@@ -230,6 +230,7 @@
 | [0268-missing-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
@@ -629,6 +630,7 @@
 | [0278-first-bad-version](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
