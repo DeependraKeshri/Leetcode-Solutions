@@ -118,6 +118,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2032-two-out-of-three](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2032-two-out-of-three) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2048-build-array-from-permutation](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -751,6 +752,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -944,6 +946,7 @@
 | [1720-decode-xored-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1720-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2032-two-out-of-three](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2032-two-out-of-three) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -980,6 +983,7 @@
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1980-find-unique-binary-string) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 ## Depth-First Search
 |  |
