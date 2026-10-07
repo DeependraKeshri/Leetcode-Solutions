@@ -735,6 +735,7 @@
 | [0112-path-sum](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0617-merge-two-binary-trees](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
@@ -780,6 +781,7 @@
 | [0242-valid-anagram](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0383-ransom-note) |
@@ -973,6 +975,7 @@
 | [0052-n-queens-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0052-n-queens-ii) |
 | [0113-path-sum-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0401-binary-watch](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0401-binary-watch) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
