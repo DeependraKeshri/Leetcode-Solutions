@@ -106,6 +106,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1854-maximum-population-year](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1854-maximum-population-year) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1861-rotating-the-box) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -559,6 +560,7 @@
 | [1512-number-of-good-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1635-number-of-good-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1854-maximum-population-year](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1854-maximum-population-year) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -974,6 +976,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1854-maximum-population-year](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1854-maximum-population-year) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2485-find-the-pivot-integer](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
