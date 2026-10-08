@@ -40,6 +40,7 @@
 | [0260-single-number-iii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -868,6 +869,7 @@
 | [0155-min-stack](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -958,6 +960,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1732-find-the-highest-altitude](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2574-left-and-right-sum-differences](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
