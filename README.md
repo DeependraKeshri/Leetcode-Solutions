@@ -278,6 +278,7 @@
 | [2348-number-of-zero-filled-subarrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2396-strictly-palindromic-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2485-find-the-pivot-integer](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -974,6 +975,7 @@
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2485-find-the-pivot-integer](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
