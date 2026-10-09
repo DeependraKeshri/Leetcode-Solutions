@@ -318,6 +318,7 @@
 | [0070-climbing-stairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -597,6 +598,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0763-partition-labels](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0763-partition-labels) |
@@ -799,6 +801,7 @@
 | [0383-ransom-note](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
