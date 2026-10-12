@@ -650,6 +650,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0611-valid-triangle-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -1328,6 +1329,7 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 ## Bracket Sequences
 |  |
 | ------- |
