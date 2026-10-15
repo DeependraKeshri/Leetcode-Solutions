@@ -82,6 +82,7 @@
 | [1306-jump-game-iii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -464,6 +465,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -616,6 +618,7 @@
 | [0763-partition-labels](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -665,6 +668,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -704,6 +708,7 @@
 | [1288-remove-covered-intervals](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
