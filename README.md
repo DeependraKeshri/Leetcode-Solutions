@@ -96,6 +96,7 @@
 | [1504-count-submatrices-with-all-ones](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1504-count-submatrices-with-all-ones) |
 | [1512-number-of-good-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1539-kth-missing-positive-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -673,6 +674,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1539-kth-missing-positive-number](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
