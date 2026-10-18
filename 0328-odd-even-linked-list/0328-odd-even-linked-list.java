@@ -10,11 +10,7 @@
  */
 class Solution {
     public ListNode oddEvenList(ListNode head) {
-        ListNode even=new ListNode(0);
-        ListNode odd=new ListNode(0);
-        ListNode temp=head;
-        ListNode e=even;
-        ListNode o=odd;
+        ListNode odd=new ListNode(1), o=odd, even=new ListNode(0), e=even, temp=head;
         while(temp!=null){
             o.next=temp;
             temp=temp.next;
@@ -24,7 +20,9 @@ class Solution {
             temp=temp.next;
             e=e.next;
         }
-        o.next=even.next;
-        return odd.next;
+        odd=odd.next;
+        even=even.next;
+        o.next=even;
+        return odd;
     }
 }
