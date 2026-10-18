@@ -9,10 +9,25 @@
  * }
  */
 class Solution {
-    public ListNode reverse(ListNode h){
-        ListNode curr=h;
-        ListNode next=h;
-        ListNode prev=null;
+    public int pairSum(ListNode head) {
+        ListNode s=head, f=head;
+        while(f.next.next!=null){
+            s=s.next;
+            f=f.next.next;
+        }
+        int sum=Integer.MIN_VALUE, val=0;
+        f=head;
+        s=reverse(s.next);
+        while(s!=null){
+            val=(s.val+f.val);
+            if(val>sum)sum=val;
+            s=s.next;
+            f=f.next;
+        }
+        return sum;
+    }
+    public ListNode reverse(ListNode slow){
+        ListNode prev=null, curr=slow, next=slow;
         while(curr!=null){
             next=curr.next;
             curr.next=prev;
@@ -20,23 +35,5 @@ class Solution {
             curr=next;
         }
         return prev;
-    }
-    public int pairSum(ListNode head) {
-        int sum=0;
-        ListNode slow=head;
-        ListNode fast=head;
-        while(fast.next.next!=null){
-            slow=slow.next;
-            fast=fast.next.next;
-        }
-        slow=reverse(slow.next);
-        ListNode temp=head;
-        while(slow!=null){
-            int s=temp.val+slow.val;
-            if(s>sum)sum=s;
-            temp=temp.next;
-            slow=slow.next;
-        }
-        return sum;
     }
 }
