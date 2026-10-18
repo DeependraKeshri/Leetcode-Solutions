@@ -941,6 +941,7 @@
 | [0234-palindrome-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0705-design-hashset](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0725-split-linked-list-in-parts](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0725-split-linked-list-in-parts) |
@@ -1058,6 +1059,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0404-sum-of-left-leaves) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
@@ -1376,4 +1378,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
