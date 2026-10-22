@@ -23,15 +23,14 @@ class Solution {
         while(!q.isEmpty()){
             List<Integer> l=new ArrayList<>();
             while(q.peek()!=null){
-                if(q.peek().left!=null)q.add(q.peek().left);
-                if(q.peek().right!=null)q.add(q.peek().right);
-                l.add(q.peek().val);
-                q.remove();
+                TreeNode curr=q.remove();
+                if(curr.left!=null)q.add(curr.left);
+                if(curr.right!=null)q.add(curr.right);
+                l.add(curr.val);
             }
             list.add(l);
             q.remove();
-            if(q.isEmpty())break;
-            q.add(null);
+            if(!q.isEmpty())q.add(null);
         }
         return list;
     }
