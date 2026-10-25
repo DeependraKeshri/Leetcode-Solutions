@@ -20,7 +20,7 @@ class MyStack {
     }
     
     public int top() {
-        return q1.element();
+        return q1.peek();
     }
     
     public boolean empty() {
