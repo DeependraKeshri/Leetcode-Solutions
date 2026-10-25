@@ -14,21 +14,20 @@
  * }
  */
 class Solution {
-    List<Integer> list=new ArrayList<>();
-    public void helper(TreeNode root){
-        if(root==null)return;
-        list.add(root.val);
-        helper(root.left);
-        helper(root.right);
-    }
     public void flatten(TreeNode root) {
         if(root==null)return;
-        helper(root);
-        root.val=list.get(0);
-        for(int i=1; i<list.size(); i++){
-            root.right=new TreeNode(list.get(i));
+        TreeNode lt=root.left;
+        TreeNode rt=root.right;
+        flatten(lt);
+        flatten(rt);
+        if(lt!=null){
             root.left=null;
-            root=root.right;
+            root.right=lt;
+            TreeNode curr=root;
+            while(curr.right!=null){
+                curr=curr.right;
+            }
+            curr.right=rt;
         }
     }
 }
