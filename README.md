@@ -488,6 +488,7 @@
 | [2325-decode-the-message](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2367-number-of-arithmetic-triplets](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2540-minimum-common-value](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -788,6 +789,7 @@
 | [1306-jump-game-iii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1306-jump-game-iii) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2596-check-knight-tour-configuration](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Enumeration
 |  |
@@ -1077,6 +1079,7 @@
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2596-check-knight-tour-configuration](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Stack
 |  |
@@ -1187,6 +1190,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1226,6 +1230,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
 |  |
 | ------- |
