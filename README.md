@@ -787,6 +787,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1302-deepest-leaves-sum) |
@@ -1078,6 +1079,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -1198,6 +1200,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
@@ -1242,6 +1245,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0938-range-sum-of-bst) |
