@@ -9,15 +9,18 @@
  */
 
 class Solution {
+    TreeNode temp=new TreeNode(10);
     public final TreeNode getTargetCopy(final TreeNode original, final TreeNode cloned, final TreeNode target) {
-        Queue<TreeNode> q=new LinkedList<>();
-        q.add(cloned);
-        while(!q.isEmpty()){
-            TreeNode t=q.remove();
-            if(t.val==target.val)return t;
-            if(t.left!=null)q.add(t.left);
-            if(t.right!=null)q.add(t.right);
+        helper(cloned, target.val);
+        return temp;
+    }
+    public void helper(TreeNode root, int target){
+        if(root==null)return;
+        if(root.val==target){
+            temp=root;
+            return;
         }
-        return null;
+        helper(root.left, target);
+        helper(root.right, target);
     }
 }
