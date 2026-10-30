@@ -14,24 +14,24 @@
  * }
  */
 class Solution {
-    public void helper(TreeNode root, ArrayList<Integer> list){
-        if(root==null)return;
-        helper(root.left, list);
-        list.add(root.val);
-        helper(root.right, list);
-    }
+    Queue<TreeNode> q=new LinkedList<>();
     public TreeNode increasingBST(TreeNode root) {
-        ArrayList<Integer> list=new ArrayList<>();
-        helper(root, list);
-        TreeNode r=new TreeNode(list.get(0));
-        TreeNode temp=r;
-        int i=1;
-        while(i<list.size()){
-            TreeNode n=new TreeNode(list.get(i));
-            temp.right=n;
+        helper(root);
+        root=q.remove();
+        TreeNode temp=root;
+        while(!q.isEmpty()){
+            temp.left=null;
+            temp.right=q.remove();
             temp=temp.right;
-            i++;
         }
-        return r;
+        temp.left=null;
+        temp.right=null;
+        return root;
+    }
+    public void helper(TreeNode root){
+        if(root==null)return;
+        helper(root.left);
+        q.add(root);
+        helper(root.right);
     }
 }
