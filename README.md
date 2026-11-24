@@ -196,6 +196,7 @@
 | [3364-minimum-positive-sum-subarray](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -314,6 +315,7 @@
 | [3336-water-bottles-ii](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -830,6 +832,7 @@
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3546-equal-sum-grid-partition-i) |
@@ -1330,6 +1333,7 @@
 | [2932-maximum-strong-pair-xor-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3634-minimum-removals-to-balance-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Divide and Conquer
 |  |
@@ -1370,6 +1374,7 @@
 | [0258-add-digits](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
