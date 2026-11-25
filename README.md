@@ -95,6 +95,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
+| [1476-subrectangle-queries](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1476-subrectangle-queries) |
 | [1480-running-sum-of-1d-array](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1504-count-submatrices-with-all-ones](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1504-count-submatrices-with-all-ones) |
 | [1512-number-of-good-pairs](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -377,6 +378,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1476-subrectangle-queries](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1476-subrectangle-queries) |
 | [1504-count-submatrices-with-all-ones](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1504-count-submatrices-with-all-ones) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -953,6 +955,7 @@
 | [0706-design-hashmap](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1352-product-of-the-last-k-numbers](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+| [1476-subrectangle-queries](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1476-subrectangle-queries) |
 | [1622-fancy-sequence](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/1622-fancy-sequence) |
 | [2169-simple-bank-system](https://github.com/DeependraKeshri/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 ## Linked List
